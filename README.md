@@ -103,5 +103,3 @@ Copiar
 Editar
 
 ---
-
-¿Quieres que te lo guarde como archivo `README.md`?

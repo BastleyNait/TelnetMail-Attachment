@@ -67,9 +67,3 @@ Esto abrirá una sesión Telnet para enviar un correo utilizando los datos propo
 - Asegúrate de que el puerto de `FakeSMTP` coincida con el configurado en `main.py`.
 - Este proyecto está diseñado para fines educativos y de prueba. No se recomienda para entornos de producción sin cifrado ni autenticación.
 
-## Licencia
-
-Este proyecto se distribuye bajo la licencia MIT.
-```
-
-¿Quieres que también incluya instrucciones para editar el `main.py` o hacer pruebas automatizadas?
